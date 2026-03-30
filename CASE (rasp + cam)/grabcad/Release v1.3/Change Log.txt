@@ -1,0 +1,14 @@
+Raspberry Pi Case
+219 Design
+Verson 1.3
+2020 03 18
+
+Version 1.3
+Raspberry fan cutout moved so berry parts are centered on the fan.
+USB ports are make identical.
+
+Version 1.2
+Removed spaces from the file names.
+
+Verson 1.1
+This version corrects the width of the bottom shell by adding 1mm for a width of 63mm. 
